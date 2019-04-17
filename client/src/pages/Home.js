@@ -6,7 +6,7 @@ export default class Home extends Component {
   return (
     <div className="App">
       <h1>Welcome to the UpDown Zone</h1>
-      <h2>*New name coming soon I promise*<h2>
+      <h2>*New name coming soon I promise*</h2>
       <Link to={'./download'}>
         <button>
           Download
