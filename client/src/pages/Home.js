@@ -12,7 +12,7 @@ export default class Home extends Component {
           Download
         </button>
       </Link>
-      <Link to={'.upload'}>
+      <Link to={'./upload'}>
         <button>
           Upload
         </button>
